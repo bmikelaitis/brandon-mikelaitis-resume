@@ -1,12 +1,14 @@
 <?php
 
 require 'vendor/autoload.php';
-$my_cap_key = getenv('RECAP_KEY');
+$secret = getenv('RECAP_KEY');
 
-$response=json_decode(file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=.$my_cap_key.&response=".$captcha."&remoteip=".$_SERVER['REMOTE_ADDR']), true);
-if($response['success'] == false){
-    echo '<h2>You are spammer ! Get the @$%K out</h2>';
-    header('Location: index.html#five');
+$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+$responseData = json_decode($verifyResponse);
+
+if($responseData == false){
+  echo $responseData;
+    //header('Location: index.html#five');
 }
 else {
   $curl = curl_init();
