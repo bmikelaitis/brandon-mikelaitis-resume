@@ -7,20 +7,15 @@ $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteve
 $responseData = json_decode($verifyResponse);
 
 if($responseData == false){
-  echo 'Captcha was not verified, please resubmit form.  Redirecting in 5 seconds.';
-  sleep(5);
-  header('Location: index.html#five');
+  header('Location: home.php?status=failed');
 }
 else {
   $curl = curl_init();
   $name = $_POST['name'];
-  $name = "Name: " + $name;
   $email = $_POST['email']; 
-  $email = "Email: " + $email;
   $subject = $_POST['subject']; 
-  $subject = "Subject: " + $subject;
   $message = $_POST['message'];
-  $message = "Message: " + $message;
+  
   $my_env_var = getenv('SENDGRID_KEY');
   curl_setopt_array($curl, array(
     CURLOPT_URL => "https://api.sendgrid.com/v3/mail/send",
@@ -40,14 +35,7 @@ else {
   $response = curl_exec($curl);
   $err = curl_error($curl);
   curl_close($curl);
-  
-  echo 'Message Sent! Your information has been sent. Redirect in 5 seconds.';
-  echo $name;
-  echo $email;
-  echo $subject;
-  echo $message;
-  sleep(5);
-  header('Location: index.html');
+  header('Location: home.php?status=success');
   
   
   if ($err) {
@@ -56,8 +44,5 @@ else {
     echo $response;
   }
 }
-
-
-
 
 ?>

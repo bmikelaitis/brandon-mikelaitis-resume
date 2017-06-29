@@ -53,7 +53,12 @@
 
 						<!-- One -->
 							<section id="one">
+									
 								<div class="container">
+									<?php if( $_GET['status'] == 'success'):
+											echo '<div id="myDIV"> <p style="color:white; background-color:#19AB3F; border-radius:25px; text-align:center; margin-top:20px; padding-top:5px; padding-bottom:5px;" id="myMsg" > Message Successfully Sent! <i class="fa fa-times" style="float:right; color:#white; font-size: 1.40em; margin-right: 15px; padding-top:2px;" onclick="myFunction()" aria-hidden="true"></i> </p></div>';
+										  endif;
+									?>
 									<header class="major">
 										<h2>About Me</h2>
 										<p>I would best describe myself as...<br />
@@ -208,8 +213,12 @@
 								<div class="container">
 									<h3>Contact Me</h3>
 									<p>For a direct line of contact, please fill out your information below with any questions you may have.  I am also available via direct email at BrandonMikelaitis@gmail.com.  My typical response time is 1 business day.</p>
-	
+									
 									<p style="color:white; background-color:#db6a60; border-radius:25px; text-align:center;" id="demo"></p>
+									<?php if( $_GET['status'] == 'failed'):
+											echo '<div id="myDIV"> <p style="color:white; background-color:#db6a60; border-radius:25px; text-align:center; margin-top:20px; padding-top:5px; padding-bottom:5px;" id="myMsg" > Error: Captcha was unable to be verified! <i class="fa fa-times" style="float:right; color:#white; font-size: 1.40em; margin-right: 10px; padding-top:3px;" onclick="myFunction()" aria-hidden="true"></i> </p></div>';
+										  endif;
+									?>
 									<form name="myForm" action="mail.php" onsubmit="return validateForm()" method="POST">
 										<div class="row uniform">
 											<div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
@@ -307,6 +316,15 @@
 				    
 				    if (text.length > 1){
 				    	return false
+				    }
+				}
+				
+				function myFunction() {
+				    var x = document.getElementById('myDIV');
+				    if (x.style.display === 'none') {
+				        x.style.display = 'block';
+				    } else {
+				        x.style.display = 'none';
 				    }
 				}
 			</script>
