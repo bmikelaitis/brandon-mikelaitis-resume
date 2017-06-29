@@ -221,6 +221,12 @@
 										<div class="row uniform">
 											<div class="12u"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
 										</div>
+										
+										<div class="row uniform">
+											<div class="12u"><div class="g-recaptcha" data-sitekey="6LcbSycUAAAAAD_iVqpvBSv4ZPvO-N_QjBiNX_PQ"></div>
+											</div>
+										</div>
+										
 										<div class="row uniform">
 											<div class="12u">
 												<ul class="actions">
@@ -291,6 +297,12 @@
 				        text = text + "<br>Error: Message must be longer than 10 characters";
 				        document.getElementById("demo").innerHTML = text;
 				    }
+				    var googleResponse = jQuery('#g-recaptcha-response').val();
+				    if (!googleResponse){
+				    	text = text + "<br>Error: Please verify you are a human";
+				        document.getElementById("demo").innerHTML = text;
+				    }
+    					
 				    
 				    
 				    if (text.length > 1){
@@ -298,6 +310,6 @@
 				    }
 				}
 			</script>
-
+			<script src='https://www.google.com/recaptcha/api.js'></script>
 	</body>
 </html>
