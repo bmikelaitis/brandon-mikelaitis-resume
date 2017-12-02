@@ -97,7 +97,7 @@
 											<h4 align="center">Bachelor's of Science in Business Administration</h4> <h5 align="center"> Management Information Systems </br>& Operations Management</h5>
 												<h5 align="center">GPA: 3.89 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2016</h5>
 												<p align="center"><span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Honors</span> </br>
-												&#8226;Magna Cum Laude</br>
+												&#8226; Magna Cum Laude</br>
 												&#8226;Dean’s List with Distinction</br>
 												&#8226;Henry Bobbe Scholarship</br>
 												&#8226;Bologna Scholarship</br>
@@ -109,7 +109,17 @@
 										<a href="#" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
 										</article>
 										<article>
-											<a href="#" class="image cert"><img src="images/Certificate.png" alt="Certifications" /></a>
+											<a href="#" class="image cert"><img src="images/projects.png" alt="Academic Projects" /></a>
+											<div class="inner">
+												<h4 align="center">Academic Projects</h4>
+												<p align="center">
+												Information Systems Security - <span class="boldtext" style="font-weight: bold;"><a href="https://iasec.eller.arizona.edu/programs/cnss-certificate"> NSTISSI 4011 </a></span> </br>
+												Senior Systems Manager - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?zFoKoMXSVGhMPq9yAKVD4w=="> CNSS 4012</a></span> </br>
+												
+												</p>
+												</div>
+										</article>
+										<article>
 											<div class="inner">
 												<h4 align="center">Certifications</h4>
 												<p align="center">
@@ -120,7 +130,8 @@
 												Enterprise Information Security - <span class="boldtext" style="font-weight: bold;"><a href="https://misonline.eller.arizona.edu/certificates/enterprise-security"> Eller 2016 </a></span> </br>
 												<!--Certified Information Systems Security Professional - <span class="boldtext"> Associate CISSP</span> -->
 												</p>
-												</div>
+											</div>
+											<a href="#" class="image cert" style="padding-left:25px;"><img src="images/Certificate.png" alt="Certifications" /></a>
 										</article>
 									</div>
 								</div>
@@ -166,7 +177,7 @@
 												 &#8226; Shared information about Pro’s and Con’s for architecture transition methods.</br>
 												 &#8226; Interacted with cross functional teams and upper management to develop a strategic outlook.</p>
 											</div>
-											<a href="#" class="image"><img src="images/MGM-logo.png" alt="MGM Resorts International" /></a>
+											<a href="#" class="image" style="padding-left:25px;"><img src="images/MGM-logo.png" alt="MGM Resorts International" /></a>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="images/a-logo.png" alt="Eller College of Management" /></a>
@@ -199,10 +210,10 @@
 									<p>These are just some of the things I have learned through my work and educational experience. For more details, please download my resume or contact me.</p>
 									<ul class="feature-icons">
 										<li class="fa-code">Java, Ruby, Python, SQL, & VBA</li>
-										<li class="fa-database">Oracle DB, SQLite, & Access</li>
-										<li class="fa-laptop">Windows, Mac OS, & Some Linux</li>
+										<li class="fa-database">Oracle DB, mySQL, PostgreSQL, & Access</li>
+										<li class="fa-laptop">Windows, Mac OS, & Linux</li>
 										<li class="fa-file-pdf-o">Adobe Creative Cloud Apps</li>
-										<li class="fa-html5">HTML5, CSS, & Ruby on Rails</li>
+										<li class="fa-html5">HTML5, CSS, JS, PHP, & Ruby on Rails</li>
 										<li class="fa-cloud">SSH & FTP Clients</li>
 									</ul>
 								</div>
