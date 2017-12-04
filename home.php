@@ -36,10 +36,9 @@
 				</nav>
 				<footer>
 					<ul class="icons">
-						<li><a href="http://www.linkedin.com/in/brandon-mikelaitis" class="icon fa-linkedin"><span class="label">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com/in/brandon-mikelaitis" target="_blank" class="icon fa-linkedin"><span class="label">Twitter</span></a></li>
 						<li><a href="tel:520-661-7972" class="icon fa-phone"><span class="label">Phone</span></a></li>
-						<li><a href="/downloads/Brandon_Mikelaitis.vcf" style="border:0;"><img src="images/Asset_1.png" alt="vCard Download" class="nolinecard" style="border:0;"></a></li>
-						<li><a href="http://github.com/bmikelaitis" class="icon fa-github"><span class="label">Github</span></a></li>
+						<li><a href="http://github.com/bmikelaitis" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
 						<li><a href="mailto:brandonmikelaitis@gmail.com" class="icon fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 				</footer>
@@ -62,10 +61,11 @@
 									<header class="major">
 										<h2>About Me</h2>
 										<p>I would best describe myself as...<br />
-										Motivated, Respectful, and Diligent.</p>
+										Motivated, Enthusiastic, Respectful, and Diligent.</p>
 									</header>
-									<p>I was born and raised in Tucson, Arizona with a wonderful family who as always supported my goals.  As a young child, I always strived to accomplish my goals and celebrate my successess. I learned from my mistakes and always asked myself the tough questions. 
-									I'm motivated by knowing regardless of what I do, my end results are always above my expectations.  I found that being diligent through time management and effective communication, i'm capable of achieving any task I set my mind to. 
+									<p>I was born and raised in Tucson, Arizona with a wonderful family who as always supported my goals.  As a young child, I always strived to accomplish my goals and celebrate my successes. I learned from my mistakes and always asked myself the tough questions. 
+                                    For any task I seek to accomplish, I always set expectations to measure my performance to learn what I can do better in the future. Continual learning is a significate motivating factor as I continuously find myself pushing my limits to better myself. 
+                                    I found that being diligent through time management, effective communication, and understanding the end goal; I'm capable of achieving any task I set my mind to. 
 									</p>
 								</div>
 							</section>
@@ -75,63 +75,64 @@
 								<div class="container">
 									<h3>A Few Accomplishments</h3>
 									<p>My educational accomplishments have been a result of hard work and many sleepless nights.  
-									I have been able to refine my time management skills to manage the many challenges of going to school full-time while working.  
-									The knowledge I have gained through these mediums has shaped my mind to always have a desire to learn.
+                                    I have been able to refine my time management skills to manage the many challenges of going to school full-time while working.  
+                                    The knowledge I have gained through these mediums has shaped my mind to have a desire to learn.
 										
 									</p>
 									<div class="features">
 										<article>
-											<a href="#" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
+											<a href="https://msmis.eller.arizona.edu" target="_blank" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
 											<div class="inner">
-												<h4 align="center">Master's of Science in Management Information Systems</h4> <h5 align="center"> Cyber Security Concentration </h5>
+												<h4 align="center">Master's of Science in Management Information Systems</h4>
 												<h5 align="center">GPA: 3.909 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2017</h5>
-												<p align="center"><span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Honors</span> </br>
-												&#8226;Dean’s List with Distinction</br>
+												<p align="center"><span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Concentrations</span> </br>
+												&#8226; Cyber Security</br>
+												&#8226; Enterprise Data Management</br>
+												<span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Honors</span> </br>
+												&#8226; Dean’s List with Distinction</br>
 												<span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Clubs and Activities</span></br>
-												&#8226;MISGA </p>
+												&#8226; MISGA </p>
 											</div>
 										</article>
 										<article>
-											
 											<div class="inner">
 											<h4 align="center">Bachelor's of Science in Business Administration</h4> <h5 align="center"> Management Information Systems </br>& Operations Management</h5>
 												<h5 align="center">GPA: 3.89 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2016</h5>
 												<p align="center"><span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Honors</span> </br>
 												&#8226; Magna Cum Laude</br>
-												&#8226;Dean’s List with Distinction</br>
-												&#8226;Henry Bobbe Scholarship</br>
-												&#8226;Bologna Scholarship</br>
+												&#8226; Dean’s List with Distinction</br>
+												&#8226; Henry Bobbe Scholarship</br>
+												&#8226; Bologna Scholarship</br>
 												<span  style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Clubs and Activities</span></br>
-												&#8226;Zipperman Scholar </br>
-												&#8226;Kappa Sigma Fraternity (Founding Father)</br>
-												&#8226;MISA</br></p>
+												&#8226; Zipperman Scholar </br>
+												&#8226; Kappa Sigma Fraternity (Founding Father)</br>
+												&#8226; MISA</br></p>
 											</div>
-										<a href="#" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
+										<a href="https://ugrad.eller.arizona.edu/academics/majors/mis" target="_blank" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
 										</article>
 										<article>
-											<a href="#" class="image cert"><img src="images/projects.png" alt="Academic Projects" /></a>
+											<a class="image cert"><img src="images/projects.png" alt="Academic Projects" /></a>
 											<div class="inner">
 												<h4 align="center">Academic Projects</h4>
 												<p align="center">
-												Information Systems Security - <span class="boldtext" style="font-weight: bold;"><a href="https://iasec.eller.arizona.edu/programs/cnss-certificate"> NSTISSI 4011 </a></span> </br>
-												Senior Systems Manager - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?zFoKoMXSVGhMPq9yAKVD4w=="> CNSS 4012</a></span> </br>
-												
-												</p>
-												</div>
+												<span style="font-weight: bold;"><a href="https://predict-complaints.com" target="_blank"> Financial Complaints - Machine Learning</a></span> <br> Designed ML models to predict consumer complaints against financial institutions.</p><hr /> 
+												<p align="center">
+												<span style="font-weight: bold;"><a href="https://tucsoncleanandbeautiful.org" target="_blank"> Tucson Clean and Beautiful (TCB) - Tracking Platform</a></span> <br> Developed a prototype application to enable end users to easy report project status. (Prototype is no longer hosted)</p>
+											</div>
 										</article>
 										<article>
 											<div class="inner">
 												<h4 align="center">Certifications</h4>
 												<p align="center">
-												Information Systems Security - <span class="boldtext" style="font-weight: bold;"><a href="https://iasec.eller.arizona.edu/programs/cnss-certificate"> NSTISSI 4011 </a></span> </br>
-												Senior Systems Manager - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?zFoKoMXSVGhMPq9yAKVD4w=="> CNSS 4012</a></span> </br>
-												System Administrator - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?/6qEBI1BFJKe66KY8vUn3g==">CNSS 4013</a></span> </br>
-												Risk Analyst, Entry Level - <span class="boldtext" style="font-weight: bold;"><a href="https://www.cnss.gov/CNSS/openDoc.cfm?Mw14oi1OLd6j54dlVIKvsA=="> CNSS 4016</a></span> </br>
-												Enterprise Information Security - <span class="boldtext" style="font-weight: bold;"><a href="https://misonline.eller.arizona.edu/certificates/enterprise-security"> Eller 2016 </a></span> </br>
+												Information Systems Security - <span class="boldtext" style="font-weight: bold;"><a href="https://iasec.eller.arizona.edu/programs/cnss-certificate" target="_blank"> NSTISSI 4011 </a></span> </br>
+												Senior Systems Manager - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?zFoKoMXSVGhMPq9yAKVD4w==" target="_blank"> CNSS 4012</a></span> </br>
+												System Administrator - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?/6qEBI1BFJKe66KY8vUn3g==" target="_blank">CNSS 4013</a></span> </br>
+												Risk Analyst, Entry Level - <span class="boldtext" style="font-weight: bold;"><a href="https://www.cnss.gov/CNSS/openDoc.cfm?Mw14oi1OLd6j54dlVIKvsA==" target="_blank"> CNSS 4016</a></span> </br>
+												Enterprise Information Security - <span class="boldtext" style="font-weight: bold;"><a href="https://misonline.eller.arizona.edu/certificates/enterprise-security" target="_blank"> Eller 2016 </a></span> </br>
 												<!--Certified Information Systems Security Professional - <span class="boldtext"> Associate CISSP</span> -->
 												</p>
 											</div>
-											<a href="#" class="image cert" style="padding-left:25px;"><img src="images/Certificate.png" alt="Certifications" /></a>
+											<a class="image cert" style="padding-left:25px;"><img src="images/Certificate.png" alt="Certifications" /></a>
 										</article>
 									</div>
 								</div>
@@ -141,32 +142,35 @@
 							<section id="three">
 								<div class="container">
 									<h3>My Experience</h3>
-									<p>My experience ranges from academic research to technical internships where I was part of a cross-functional team that was responsible for improving customer experience.  
-									I’m currently entering the consulting industry upon graduation of my master degree.  
-									My drive for continual learning is never-ending and I'm always looking my next adventure. </p>
+									<p>My experience ranges from academic research to professional internships where I was part of a cross-functional team that was responsible for improving customer experience.  
+                                    I’m currently entering the consulting industry upon graduation of my master degree.  
+                                    My drive for continual learning is never-ending, and I'm always looking my next adventure.</p>
 									<div class="features">
 										<article>
-											<a href="#" class="image"><img src="images/focal-point-large-text.png" alt="Focal Point" /></a>
+											<a href="https://focal-point.com" target="_blank" class="image"><img src="images/focal-point-large-text.png" alt="Focal Point" /></a>
 											<div class="inner">
-												<h4 align="center">Cyber Security Consultant</h4> <h5 align="center"> Starting July 2017 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Newport Beach, CA</h5>
-												<p>&#8226; I have recently accepted a full time position with Focal Point Data Risk as a Consultant in Newport Beach, California.</p>
+												<h4 align="center">Cyber Security Consultant</h4> <h5 align="center">July 2017 - Current &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Newport Beach, CA</h5>
+												<p>&#8226; Performed client site assessments of IT business functions and processes to identify areas for improvement.<br>
+												&#8226; Conducted cyber security risk assessments for various organizations against industry frameworks. (ISO 27001, NIST 800-53, and CIS CSC Top 20)<br>
+												&#8226; Collaborated with internal and external teams to develop documentation that accurately reflected the findings and status of IT divisions for Board of Directors and Executive Management.</p>
 											</div>
 										</article>
 										<article>
 										<article>
 											<div class="inner">
 												<h4 align="center">Graduate Teaching Assistant</h4> <h5 align="center"> August 2016 - May 2017  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tucson, AZ</h5>
-												<p>&#8226; Assisted the Professor in various tasks ranging from leading the class to developing in-class Activities.</br>
+												<p>&#8226; Assisted the Professor in various tasks ranging from leading the class to developing in-class activities.</br>
 												&#8226; Teached lectures on Supply Chain Managment and JIT Processes.</br>
 												&#8226; Other duties include tracking attendance and grade management.</p>
 											</div>
-											<a href="#" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
+											<a href="https://grad.arizona.edu/funding/ga/appointment-titles" target="_blank" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/a-logo.png" alt="Eller College of Management" /></a>
+											<a href="https://www.cmi.arizona.edu" target="_blank" class="image"><img src="images/a-logo.png" alt="Eller College of Management" /></a>
 											<div class="inner">
 												<h4 align="center">Graduate Research Assistant</h4> <h5 align="center"> August 2016 - May 2017  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tucson, AZ</h5>
-												<p>&#8226; Assisted Researchers in specialized Projects and Experiments for the U.S. Borders Project.</br> 
+												<p>&#8226; Continuation of my undergraduate research with added responsibilities such as facilitating research studies and developing data collection techniques.</br> 
+												&#8226; Assisted Researchers in specialized Projects and Experiments for the U.S. Borders Project.</br> 
 												&#8226; Collaborated in team meetings to give insights for research data goals.</p>
 											</div>
 										</article>
@@ -177,10 +181,10 @@
 												 &#8226; Shared information about Pro’s and Con’s for architecture transition methods.</br>
 												 &#8226; Interacted with cross functional teams and upper management to develop a strategic outlook.</p>
 											</div>
-											<a href="#" class="image" style="padding-left:25px;"><img src="images/MGM-logo.png" alt="MGM Resorts International" /></a>
+											<a href="https://www.mgmresorts.com/en/company/careers/internships/hospitality.html" target="_blank" class="image" style="padding-left:25px;"><img src="images/MGM-logo.png" alt="MGM Resorts International" /></a>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/a-logo.png" alt="Eller College of Management" /></a>
+											<a href="https://www.cmi.arizona.edu" target="_blank" class="image"><img src="images/a-logo.png" alt="Eller College of Management" /></a>
 											<div class="inner">
 												<h4 align="center">Senior Research Assistant</h4> <h5 align="center"> May 2012 - May 2016  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tucson, AZ</h5>
 												<p>&#8226; Code and Evaluate videos for Data using Interact Behavioral Tools.</br>
@@ -197,7 +201,7 @@
 												&#8226; Collaborated Collectively amongst the AppleCare team to Resolve Emerging Issues. </br>
 												&#8226; Assist in the Training and Support of New Team Members. Met and Exceeded Company Metrics and Productivity Goals.</p>
 											</div>
-											<a href="#" class="image apple"><img src="images/Apple-logo.png" alt="Apple Inc." align="center"/></a>
+											<a href="https://www.apple.com/jobs/us/aha.html" target="_blank" class="image apple"><img src="images/Apple-logo.png" alt="Apple Inc." align="center"/></a>
 										</article>
 									</div>
 								</div>
@@ -215,6 +219,8 @@
 										<li class="fa-file-pdf-o">Adobe Creative Cloud Apps</li>
 										<li class="fa-html5">HTML5, CSS, JS, PHP, & Ruby on Rails</li>
 										<li class="fa-cloud">SSH & FTP Clients</li>
+										<li class="fa-connectdevelop">Networking Models & Topologies</li>
+										<li class="fa-rocket">Application Development Principles</li>
 									</ul>
 								</div>
 							</section>
@@ -267,9 +273,9 @@
 						<div class="container">
 							<ul class="copyright">
 								<li>&copy; Brandon Mikelaitis. All rights reserved.</li>
-									<li><a href="http://www.linkedin.com/in/brandon-mikelaitis" class="icon fa-linkedin"><span class="label">Twitter</span></a></li>
+									<li><a href="http://www.linkedin.com/in/brandon-mikelaitis" target="_blank" class="icon fa-linkedin"><span class="label">Twitter</span></a></li>
 						<li><a href="tel:520-661-7972" class="icon fa-phone"><span class="label">Phone</span></a></li>
-						<li><a href="http://github.com/bmikelaitis" class="icon fa-github"><span class="label">Github</span></a></li>
+						<li><a href="http://github.com/bmikelaitis" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
 						<li><a href="mailto:brandonmikelaitis@gmail.com" class="icon fa-envelope"><span class="label">Email</span></a></li>
 							</ul>
 						</div>
