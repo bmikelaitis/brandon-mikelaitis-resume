@@ -63,9 +63,9 @@
 										<p>I would best describe myself as...<br />
 										Motivated, Enthusiastic, Respectful, and Diligent.</p>
 									</header>
-									<p>I was born and raised in Tucson, Arizona with a wonderful family who as always supported my goals.  As a young child, I always strived to accomplish my goals and celebrate my successes. I learned from my mistakes and always asked myself the tough questions. 
-                                    For any task I seek to accomplish, I always set expectations to measure my performance to learn what I can do better in the future. Continual learning is a significate motivating factor as I continuously find myself pushing my limits to better myself. 
-                                    I found that being diligent through time management, effective communication, and understanding the end goal; I'm capable of achieving any task I set my mind to. 
+									<p>I was born and raised in Tucson, Arizona with a wonderful family who has always supported my goals.  As a young child, I always strived to accomplish my goals and celebrate my successes. I learned from my mistakes and always asked myself the tough questions. 
+                                    For any task I seek to accomplish, I always set expectations to measure my performance in order to learn what I can do better in the future. Continual learning is a significant motivating factor as I constantly find myself pushing my limits to better myself. 
+                                    Experience has taught me that with diligent time management, with effective communication, and possession of a thorough understanding of the end goal, I'm capable of achieving any task I set my mind to. 
 									</p>
 								</div>
 							</section>
@@ -76,8 +76,7 @@
 									<h3>A Few Accomplishments</h3>
 									<p>My educational accomplishments have been a result of hard work and many sleepless nights.  
                                     I have been able to refine my time management skills to manage the many challenges of going to school full-time while working.  
-                                    The knowledge I have gained through these mediums has shaped my mind to have a desire to learn.
-										
+                                    The knowledge I have gained through these mediums has shaped my mind to have a passion for learning.
 									</p>
 									<div class="features">
 										<article>
@@ -143,7 +142,7 @@
 								<div class="container">
 									<h3>My Experience</h3>
 									<p>My experience ranges from academic research to professional internships where I was part of a cross-functional team that was responsible for improving customer experience.  
-                                    I’m currently entering the consulting industry upon graduation of my master degree.  
+                                    I have recently entered the consulting industry as a result of my master's degree in Information Systems.  
                                     My drive for continual learning is never-ending, and I'm always looking my next adventure.</p>
 									<div class="features">
 										<article>
@@ -160,7 +159,7 @@
 											<div class="inner">
 												<h4 align="center">Graduate Teaching Assistant</h4> <h5 align="center"> August 2016 - May 2017  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tucson, AZ</h5>
 												<p>&#8226; Assisted the Professor in various tasks ranging from leading the class to developing in-class activities.</br>
-												&#8226; Teached lectures on Supply Chain Managment and JIT Processes.</br>
+												&#8226; Taught lectures on Supply Chain Managment and JIT Processes.</br>
 												&#8226; Other duties include tracking attendance and grade management.</p>
 											</div>
 											<a href="https://grad.arizona.edu/funding/ga/appointment-titles" target="_blank" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
