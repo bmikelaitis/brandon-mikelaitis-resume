@@ -27,8 +27,8 @@
 				<nav id="nav">
 					<ul>
 						<li><a href="#one" class="active">About Me</a></li>
-						<li><a href="#two">Education</a></li>
 						<li><a href="#three">Experience</a></li>
+						<li><a href="#two">Education</a></li>
 						<li><a href="#four">Skills</a></li>
 						<li><a href="#five">Contact</a></li>
 						<li><a href="/downloads/Brandon_Mikelaitis.pdf" target="_blank">Download Resume</a></li>
@@ -67,73 +67,6 @@
                                     For any task I seek to accomplish, I always set expectations to measure my performance in order to learn what I can do better in the future. Continual learning is a significant motivating factor as I constantly find myself pushing my limits to better myself. 
                                     Experience has taught me that with diligent time management, with effective communication, and possession of a thorough understanding of the end goal, I'm capable of achieving any task I set my mind to. 
 									</p>
-								</div>
-							</section>
-
-						<!-- Two -->
-							<section id="two">
-								<div class="container">
-									<h3>A Few Accomplishments</h3>
-									<p>My educational accomplishments have been a result of hard work and many sleepless nights.  
-                                    I have been able to refine my time management skills to manage the many challenges of going to school full-time while working.  
-                                    The knowledge I have gained through these mediums has shaped my mind to have a passion for learning.
-									</p>
-									<div class="features">
-										<article>
-											<a href="https://msmis.eller.arizona.edu" target="_blank" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
-											<div class="inner">
-												<h4 align="center">Master's of Science in Management Information Systems</h4>
-												<h5 align="center">GPA: 3.909 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2017</h5>
-												<p align="center"><span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Concentrations</span> </br>
-												&#8226; Cyber Security</br>
-												&#8226; Enterprise Data Management</br>
-												<span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Honors</span> </br>
-												&#8226; Dean’s List with Distinction</br>
-												<span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Clubs and Activities</span></br>
-												&#8226; MISGA </p>
-											</div>
-										</article>
-										<article>
-											<div class="inner">
-											<h4 align="center">Bachelor's of Science in Business Administration</h4> <h5 align="center"> Management Information Systems </br>& Operations Management</h5>
-												<h5 align="center">GPA: 3.89 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2016</h5>
-												<p align="center"><span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Honors</span> </br>
-												&#8226; Magna Cum Laude</br>
-												&#8226; Dean’s List with Distinction</br>
-												&#8226; Henry Bobbe Scholarship</br>
-												&#8226; Bologna Scholarship</br>
-												<span  style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Clubs and Activities</span></br>
-												&#8226; Zipperman Scholar </br>
-												&#8226; Kappa Sigma Fraternity (Founding Father)</br>
-												&#8226; MISA</br></p>
-											</div>
-										<a href="https://ugrad.eller.arizona.edu/academics/majors/mis" target="_blank" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
-										</article>
-										<article>
-											<a class="image cert"><img src="images/projects.png" alt="Academic Projects" /></a>
-											<div class="inner">
-												<h4 align="center">Academic Projects</h4>
-												<p align="center">
-												<span style="font-weight: bold;"><a href="https://predict-complaints.com" target="_blank"> Financial Complaints - Machine Learning</a></span> <br> Designed ML models to predict consumer complaints against financial institutions.</p><hr /> 
-												<p align="center">
-												<span style="font-weight: bold;"><a href="https://tucsoncleanandbeautiful.org" target="_blank"> Tucson Clean and Beautiful (TCB) - Tracking Platform</a></span> <br> Developed a prototype application to enable end users to easy report project status. (Prototype is no longer hosted)</p>
-											</div>
-										</article>
-										<article>
-											<div class="inner">
-												<h4 align="center">Certifications</h4>
-												<p align="center">
-												Information Systems Security - <span class="boldtext" style="font-weight: bold;"><a href="https://iasec.eller.arizona.edu/programs/cnss-certificate" target="_blank"> NSTISSI 4011 </a></span> </br>
-												Senior Systems Manager - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?zFoKoMXSVGhMPq9yAKVD4w==" target="_blank"> CNSS 4012</a></span> </br>
-												System Administrator - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?/6qEBI1BFJKe66KY8vUn3g==" target="_blank">CNSS 4013</a></span> </br>
-												Risk Analyst, Entry Level - <span class="boldtext" style="font-weight: bold;"><a href="https://www.cnss.gov/CNSS/openDoc.cfm?Mw14oi1OLd6j54dlVIKvsA==" target="_blank"> CNSS 4016</a></span> </br>
-												Enterprise Information Security - <span class="boldtext" style="font-weight: bold;"><a href="https://misonline.eller.arizona.edu/certificates/enterprise-security" target="_blank"> Eller 2016 </a></span> </br>
-												<!--Certified Information Systems Security Professional - <span class="boldtext"> Associate CISSP</span> -->
-												</p>
-											</div>
-											<a class="image cert" style="padding-left:25px;"><img src="images/Certificate.png" alt="Certifications" /></a>
-										</article>
-									</div>
 								</div>
 							</section>
 
@@ -206,6 +139,73 @@
 								</div>
 							</section>
 							
+						<!-- Two -->
+							<section id="two">
+								<div class="container">
+									<h3>A Few Accomplishments</h3>
+									<p>My educational accomplishments have been a result of hard work and many sleepless nights.  
+                                    I have been able to refine my time management skills to manage the many challenges of attending school full-time while working.  
+                                    The knowledge I have gained through these mediums has shaped my mind to have a passion for learning.
+									</p>
+									<div class="features">
+										<article>
+											<a href="https://msmis.eller.arizona.edu" target="_blank" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
+											<div class="inner">
+												<h4 align="center">Master's of Science in Management Information Systems</h4>
+												<h5 align="center">GPA: 3.909 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2017</h5>
+												<p align="center"><span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Concentrations</span> </br>
+												&#8226; Cyber Security</br>
+												&#8226; Enterprise Data Management</br>
+												<span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Honors</span> </br>
+												&#8226; Dean’s List with Distinction</br>
+												<span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Clubs and Activities</span></br>
+												&#8226; MIS Graduate Association (MISGA) </p>
+											</div>
+										</article>
+										<article>
+											<div class="inner">
+											<h4 align="center">Bachelor's of Science in Business Administration</h4> <h5 align="center"> Management Information Systems </br>& Operations Management</h5>
+												<h5 align="center">GPA: 3.89 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2016</h5>
+												<p align="center"><span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Honors</span> </br>
+												&#8226; Magna Cum Laude</br>
+												&#8226; Dean’s List with Distinction</br>
+												&#8226; Henry Bobbe Scholarship</br>
+												&#8226; Bologna Scholarship</br>
+												<span  style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Clubs and Activities</span></br>
+												&#8226; Zipperman Scholar </br>
+												&#8226; Kappa Sigma Fraternity (Founding Father)</br>
+												&#8226; MIS Association (MISA)</br></p>
+											</div>
+										<a href="https://ugrad.eller.arizona.edu/academics/majors/mis" target="_blank" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
+										</article>
+										<article>
+											<a class="image cert"><img src="images/projects.png" alt="Academic Projects" /></a>
+											<div class="inner">
+												<h4 align="center">Academic Projects</h4>
+												<p align="center">
+												<span style="font-weight: bold;"><a href="https://predict-complaints.com" target="_blank"> Financial Complaints - Machine Learning</a></span> <br> Designed ML models to predict consumer complaints against financial institutions.</p><hr /> 
+												<p align="center">
+												<span style="font-weight: bold;"><a href="https://tucsoncleanandbeautiful.org" target="_blank"> Tucson Clean and Beautiful (TCB) - Tracking Platform</a></span> <br> Developed a prototype application to enable end users to easy report project status.</p>
+											</div>
+										</article>
+										<article>
+											<div class="inner">
+												<h4 align="center">Certifications</h4>
+												<p align="center">
+												Information Systems Security - <span class="boldtext" style="font-weight: bold;"><a href="https://iasec.eller.arizona.edu/programs/cnss-certificate" target="_blank"> NSTISSI 4011 </a></span> </br>
+												Senior Systems Manager - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?zFoKoMXSVGhMPq9yAKVD4w==" target="_blank"> CNSS 4012</a></span> </br>
+												System Administrator - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?/6qEBI1BFJKe66KY8vUn3g==" target="_blank">CNSS 4013</a></span> </br>
+												Risk Analyst, Entry Level - <span class="boldtext" style="font-weight: bold;"><a href="https://www.cnss.gov/CNSS/openDoc.cfm?Mw14oi1OLd6j54dlVIKvsA==" target="_blank"> CNSS 4016</a></span> </br>
+												Enterprise Information Security - <span class="boldtext" style="font-weight: bold;"><a href="https://misonline.eller.arizona.edu/certificates/enterprise-security" target="_blank"> Eller 2016 </a></span> </br>
+												<!--Certified Information Systems Security Professional - <span class="boldtext"> Associate CISSP</span> -->
+												</p>
+											</div>
+											<a class="image cert" style="padding-left:25px;"><img src="images/Certificate.png" alt="Certifications" /></a>
+										</article>
+									</div>
+								</div>
+							</section>
+	
 						<!-- four -->
 							<section id="four">
 								<div class="container">
