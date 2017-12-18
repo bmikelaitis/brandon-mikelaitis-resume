@@ -185,7 +185,7 @@
 												<p align="center">
 												<span style="font-weight: bold;"><a href="https://predict-complaints.com" target="_blank"> Financial Complaints - Machine Learning</a></span> <br> Designed ML models to predict consumer complaints against financial institutions.</p><hr /> 
 												<p align="center">
-												<span style="font-weight: bold;"><a href="https://tucsoncleanandbeautiful.org" target="_blank"> Tucson Clean and Beautiful (TCB) - Tracking Platform</a></span> <br> Developed a prototype application to enable end users to easy report project status.</p>
+												<span style="font-weight: bold;"><a href="https://tucsoncleanandbeautiful.org" target="_blank"> Tucson Clean and Beautiful (TCB) - Tracking Platform</a></span> <br> Developed a prototype application to enable end users to easily report project status updates.</p>
 											</div>
 										</article>
 										<article>
