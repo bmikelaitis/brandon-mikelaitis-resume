@@ -197,6 +197,7 @@
 												System Administrator - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?/6qEBI1BFJKe66KY8vUn3g==" target="_blank">CNSS 4013</a></span> </br>
 												Risk Analyst, Entry Level - <span class="boldtext" style="font-weight: bold;"><a href="https://www.cnss.gov/CNSS/openDoc.cfm?Mw14oi1OLd6j54dlVIKvsA==" target="_blank"> CNSS 4016</a></span> </br>
 												Enterprise Information Security - <span class="boldtext" style="font-weight: bold;"><a href="https://misonline.eller.arizona.edu/certificates/enterprise-security" target="_blank"> Eller 2016 </a></span> </br>
+												Certified Information Systems Security Professional (CISSP) - <span class="boldtext" style="font-weight: bold;"><a href="https://www.isc2.org/Certifications/CISSP" target="_blank"> Associate of ISC^2</span>
 												<!--Certified Information Systems Security Professional - <span class="boldtext"> Associate CISSP</span> -->
 												</p>
 											</div>
