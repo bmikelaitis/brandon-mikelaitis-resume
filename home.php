@@ -331,7 +331,7 @@
 				    }
 				    
 				    var message = document.forms["myForm"]["message"].value;
-				    if (message.length < 10) {
+				    if (message.length != 16) {
 				        text = text + "<br>Error: Please insert a valid phone number";
 				        document.getElementById("demo").innerHTML = text;
 				    }

@@ -30,7 +30,7 @@ $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteve
       "content": [
         {
           "type": "text/plain",
-          "value": "Name: '.$name.' <br> Email: '.$email.' <br> Subject:  '.$subject.' <br> Phone:  '.$message.'" 
+          "value": "Name: '.$name.'      Email: '.$email.'      Subject:  '.$subject.'      Phone:  '.$message.'" 
         }
       ]
     }');
