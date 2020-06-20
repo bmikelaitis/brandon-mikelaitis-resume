@@ -253,11 +253,13 @@
 											<div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
 											<div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="Email" /></div>
 										</div>
+										
+										<div class="row uniform">
+											<div class="12u"><input name="message" id="message" onblur="formatPhone(this);" placeholder="Phone Number" /></div>
+										</div>
+										
 										<div class="row uniform">
 											<div class="12u"><input type="text" name="subject" id="subject" placeholder="Subject" /></div>
-										</div>
-										<div class="row uniform">
-											<div class="12u"><textarea name="message" id="message" onblur="formatPhone(this);" placeholder="Phone Number" rows="1"></textarea></div>
 										</div>
 										
 										<div class="row uniform">
