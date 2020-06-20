@@ -20,9 +20,8 @@
 				<header>
 					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
 					<h1 id="logo"><a href="#">Brandon Mikelaitis</a></h1>
-					<p>Whatever you are,<br />
-					be a good one. <br />
-					- Abraham Lincoln</p>
+					<p>"I find that the harder I work, the more luck I seem to have."<br />
+					- Thomas Jefferson</p>
 				</header>
 				<nav id="nav">
 					<ul>
@@ -83,8 +82,6 @@
 											<a href="https://focal-point.com" target="_blank" class="image"><img src="images/focal-point-large-text.png" alt="Focal Point" /></a>
 											<div class="inner">
 												<h4 align="center">Senior Consultant - Cyber Strategy and Advisory</h4> <h5 align="center">September 2019 - Current &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tampa, FL</h5>
-												<hr>
-												<h4 align="center">Consultant - Cyber Risk and Advisory</h4> <h5 align="center">July 2017 - September 2019 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Newport Beach, CA / Tampa, FL</h5>
 												<p>&#8226; Performed on-site client assessments of IT and IS business functions to identify control gaps and weaknesses.<br>
 													&#8226; Conducted multiple IT risk assessments across North and South America, Europe, and Asia while managing the project delivery team.<br>
 													&#8226; Validated cybersecurity controls against various industry-accepted standards and frameworks (NIST Cyber Security Framework, NIST SP 800-53, ISO 27001, and CIS CSC 20).<br>
@@ -95,6 +92,8 @@
 													&#8226; Designed data visualization models using Power BI to graphically communicate cybersecurity risk and maturity.<br>
 													&#8226; Interviewed and effectively participated in the hiring of employees.<br>
 													&#8226; Mentored and coached peers and junior staff on technical testing and reviewed project deliverables for quality and accuracy.</p>
+													<hr>
+												<h4 align="center">Consultant - Cyber Risk and Advisory</h4> <h5 align="center">July 2017 - September 2019 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Newport Beach, CA & Tampa, FL</h5>
 											</div>
 										</article>
 										<article>
