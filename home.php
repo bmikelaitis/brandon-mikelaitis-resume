@@ -229,7 +229,7 @@
 										<li class="fa-html5">HTML5, CSS, JS, PHP, & Ruby on Rails</li>
 										<li class="fa-cloud">SSH & FTP Clients</li>
 										<li class="fa-connectdevelop">Networking Models & Topologies</li>
-										<li class="fas fa-virus">">Application Development Principles</li>
+										<li class="fas fa-virus">Application Development Principles</li>
 									</ul>
 								</div>
 							</section>
