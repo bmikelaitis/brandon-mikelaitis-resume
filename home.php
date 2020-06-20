@@ -81,7 +81,9 @@
 										<article>
 											<a href="https://focal-point.com" target="_blank" class="image"><img src="images/focal-point-large-text.png" alt="Focal Point" /></a>
 											<div class="inner">
-												<h4 align="center">Cyber Security Consultant</h4> <h5 align="center">July 2017 - Current &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Newport Beach, CA</h5>
+												<h4 align="center">Senior Consultant - Cyber Strategy and Advisory</h4> <h5 align="center">September 2019 - Current &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tampa, FL</h5>
+												<hr>
+												<h4 align="center">Consultant - Cyber Risk and Advisory</h4> <h5 align="center">July 2017 - September 2019 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Newport Beach, CA / Tampa, FL</h5>
 												<p>&#8226; Performed client site assessments of IT business functions and processes to identify areas for improvement.<br>
 												&#8226; Conducted cyber security risk assessments for various organizations against industry frameworks. (ISO 27001, NIST 800-53, and CIS CSC Top 20)<br>
 												&#8226; Collaborated with internal and external teams to develop documentation that accurately reflected the findings and status of IT divisions for Board of Directors and Executive Management.</p>
