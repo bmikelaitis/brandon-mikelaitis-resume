@@ -219,8 +219,8 @@
 						<!-- four -->
 							<section id="four">
 								<div class="container">
-									<h3>Things I Can Do</h3>
-									<p>These are just some of the things I have learned through my work and educational experience. For more details, please download my resume or contact me.</p>
+									<h3>Skills</h3>
+									<p>For more details, please download my resume or contact me.</p>
 									<ul class="feature-icons">
 										<li class="fa-laptop">Windows, Mac OS, & Linux Environments</li>
 										<li class="fa-connectdevelop">Network Security Architecture</li>
