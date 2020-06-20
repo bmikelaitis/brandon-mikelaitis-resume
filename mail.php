@@ -12,7 +12,8 @@ $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteve
     $email = $_POST['email']; 
     $subject = $_POST['subject']; 
     $message = pg_escape_string($_POST['message']);
-    
+    $between = "<br>";
+    $content = $name.$between.$email.$between.$subject.$between.$message;
     
     $request_body = json_decode('{
       "personalizations": [
@@ -31,7 +32,7 @@ $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteve
       "content": [
         {
           "type": "text/plain",
-          "value": "$name<br>$email<br>$subject<br>$message"
+          "value": $content
         }
       ]
     }');
