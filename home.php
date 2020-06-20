@@ -222,14 +222,17 @@
 									<h3>Things I Can Do</h3>
 									<p>These are just some of the things I have learned through my work and educational experience. For more details, please download my resume or contact me.</p>
 									<ul class="feature-icons">
+										<li class="fa-laptop">Windows, Mac OS, & Linux Environments</li>
+										<li class="fa-connectdevelop">Network Security Architecture</li>
+										<li class="fa-lock">Endpoint Protection</li>
+										<li class="fa-cloud">Amazon Web Services</li>
+										<li class="fa-rocket">Secure Software Development</li>
+										<li class="fa-sitemap">Audit and Compliance</li>
+										<li class="fa-bolt">Risk Analysis and Mitigation</li>
+										<li class="fa-chain-broken">Disaster Recovery</li>
+										<li class="fa-html5">HTML5, CSS, PHP, Ruby on Rails</li>
 										<li class="fa-code">Java, Ruby, Python, SQL, & VBA</li>
-										<li class="fa-database">Oracle DB, mySQL, PostgreSQL, & Access</li>
-										<li class="fa-laptop">Windows, Mac OS, & Linux</li>
-										<li class="fa-file-pdf-o">Adobe Creative Cloud Apps</li>
-										<li class="fa-html5">HTML5, CSS, JS, PHP, & Ruby on Rails</li>
-										<li class="fa-cloud">SSH & FTP Clients</li>
-										<li class="fa-connectdevelop">Networking Models & Topologies</li>
-										<li class="fas fa-virus">Application Development Principles</li>
+										<li class="fa-pie-chart">Power BI (Data Visualization)</li>
 									</ul>
 								</div>
 							</section>
