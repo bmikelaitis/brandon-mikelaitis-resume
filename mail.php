@@ -32,7 +32,7 @@ $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteve
       "content": [
         {
           "type": "text/plain",
-          "value": "Test"
+          "value": "Name: '.$name.'" 
         }
       ]
     }');
@@ -45,7 +45,7 @@ $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteve
     echo $response->body();
     echo $response->headers();
 
-    header('Location: home.php?status=success$content');
+    header('Location: home.php?status=success');
     
     
     if ($err) {
