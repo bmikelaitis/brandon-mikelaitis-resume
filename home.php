@@ -58,11 +58,11 @@
 											echo '<div id="myDIV"> <p style="color:white; background-color:#19AB3F; border-radius:25px; text-align:center; margin-top:20px; padding-top:5px; padding-bottom:5px;" id="myMsg" > Message Successfully Sent! <i class="fa fa-times" style="float:right; color:#white; font-size: 1.40em; margin-right: 15px; padding-top:2px;" onclick="myFunction()" aria-hidden="true"></i> </p></div>';
 										  endif;
 									?>
-									<!--<header class="major">
+									<header class="major">
 										<h2>About Me</h2>
-										<p>I would best describe myself as...<br />
-										Persistent, Independent, Positive, and .</p>
-									</header>-->
+										<!--<p>I would best describe myself as...<br />
+										Persistent, Independent, Positive, and .</p>-->
+									</header>
 									<p>I was born and raised in Tucson, Arizona with a wonderful family who has always supported my goals. I learned from my mistakes and always asked myself the tough questions. 
                                     For any task I seek to accomplish, I always set expectations to measure my performance in order to learn what I can do better in the future. Continual learning is a significant motivating factor as I constantly find myself pushing my limits to better myself. 
                                     Experience has taught me that with diligent time management, with effective communication, and possession of a thorough understanding of the end goal, I'm capable of achieving any task I set my mind to. 
