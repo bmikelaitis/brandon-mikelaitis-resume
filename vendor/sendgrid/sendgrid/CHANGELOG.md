@@ -3,6 +3,31 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [5.0.9] - 2016-09-13 ##
+### Fixed
+- Pull request #289: [Replace "\jsonSerializable" with "\JsonSerializable" ](https://github.com/sendgrid/sendgrid-php/pull/289)
+- Thanks to [Issei.M](https://github.com/issei-m) for the pull request!
+
+## [5.0.8] - 2016-08-24 ##
+### Added
+- Table of Contents in the README
+- Added a [USE_CASES.md](https://github.com/sendgrid/sendgrid-php/blob/master/USE_CASES.md) section, with the first use case example for transactional templates
+
+## [5.0.7] - 2016-07-25 ##
+### Added
+- [Troubleshooting](https://github.com/sendgrid/sendgrid-php/blob/master/TROUBLESHOOTING.md) section
+
+## [5.0.6] - 2016-07-20 ##
+### Added
+- README updates
+- Update introduction blurb to include information regarding our forward path
+- Update the v3 /mail/send example to include non-helper usage
+- Update the generic v3 example to include non-fluent interface usage
+
+## [5.0.5] - 2016-07-12 ##
+### Added
+- Update docs, unit tests and examples to include Sender ID
+
 ## [5.0.4] - 2016-07-07 ##
 ### Added
 - Tests now mocked automatically against [prism](https://stoplight.io/prism/)

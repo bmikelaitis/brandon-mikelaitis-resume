@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d97a5d1a534ae17ea5e49bc233f22929",
+    "content-hash": "3e5389bfd327ea8cbf8af89f56f78482",
     "packages": [
         {
             "name": "sendgrid/php-http-client",
@@ -60,20 +60,20 @@
         },
         {
             "name": "sendgrid/sendgrid",
-            "version": "5.0.4",
+            "version": "5.0.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sendgrid/sendgrid-php.git",
-                "reference": "1050d195525ff529036e7804f2c303261d65dca3"
+                "reference": "fbf43e7851463c49d6d45382151fbd2e90028af3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sendgrid/sendgrid-php/zipball/1050d195525ff529036e7804f2c303261d65dca3",
-                "reference": "1050d195525ff529036e7804f2c303261d65dca3",
+                "url": "https://api.github.com/repos/sendgrid/sendgrid-php/zipball/fbf43e7851463c49d6d45382151fbd2e90028af3",
+                "reference": "fbf43e7851463c49d6d45382151fbd2e90028af3",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3",
+                "php": ">=5.6",
                 "sendgrid/php-http-client": "3.1.0"
             },
             "replace": {
@@ -102,7 +102,7 @@
                 "send",
                 "sendgrid"
             ],
-            "time": "2016-07-08T02:55:23+00:00"
+            "time": "2016-09-13T17:27:23+00:00"
         }
     ],
     "packages-dev": [],
@@ -112,5 +112,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }
