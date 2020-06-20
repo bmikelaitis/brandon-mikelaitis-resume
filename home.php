@@ -58,12 +58,12 @@
 											echo '<div id="myDIV"> <p style="color:white; background-color:#19AB3F; border-radius:25px; text-align:center; margin-top:20px; padding-top:5px; padding-bottom:5px;" id="myMsg" > Message Successfully Sent! <i class="fa fa-times" style="float:right; color:#white; font-size: 1.40em; margin-right: 15px; padding-top:2px;" onclick="myFunction()" aria-hidden="true"></i> </p></div>';
 										  endif;
 									?>
-									<header class="major">
+									<!--<header class="major">
 										<h2>About Me</h2>
 										<p>I would best describe myself as...<br />
-										Motivated, Enthusiastic, Respectful, and Diligent.</p>
-									</header>
-									<p>I was born and raised in Tucson, Arizona with a wonderful family who has always supported my goals.  As a young child, I always strived to accomplish my goals and celebrate my successes. I learned from my mistakes and always asked myself the tough questions. 
+										Persistent, Independent, Positive, and .</p>
+									</header>-->
+									<p>I was born and raised in Tucson, Arizona with a wonderful family who has always supported my goals. I learned from my mistakes and always asked myself the tough questions. 
                                     For any task I seek to accomplish, I always set expectations to measure my performance in order to learn what I can do better in the future. Continual learning is a significant motivating factor as I constantly find myself pushing my limits to better myself. 
                                     Experience has taught me that with diligent time management, with effective communication, and possession of a thorough understanding of the end goal, I'm capable of achieving any task I set my mind to. 
 									</p>
@@ -74,9 +74,10 @@
 							<section id="three">
 								<div class="container">
 									<h3>My Experience</h3>
-									<p>My experience ranges from academic research to professional internships where I was part of a cross-functional team that was responsible for improving customer experience.  
-                                    I have recently entered the consulting industry as a result of my master's degree in Information Systems.  
-                                    My drive for continual learning is never-ending, and I'm always looking my next adventure.</p>
+									<p>I'm an Information security professional with three (3) years of governance, risk, and compliance advisory experience across industry sectors. 
+									Experienced in conducting risk assessments and audits to provide cost-effective, risk-based recommendations to senior leadership. 
+									With a technical and non-technical background, adept at expressing complex technical challenges in terms of business risk and impact. 
+									Currently seeking to expand upon experience in the cybersecurity industry.</p>
 									<div class="features">
 										<article>
 											<a href="https://focal-point.com" target="_blank" class="image"><img src="images/focal-point-large-text.png" alt="Focal Point" /></a>
@@ -201,13 +202,13 @@
 											<div class="inner">
 												<h4 align="center">Certifications</h4>
 												<p align="center">
+												Certified Information Systems Security Professional (CISSP) - <span class="boldtext" style="font-weight: bold;"><a href="https://www.youracclaim.com/badges/d7e14049-26db-4f7a-b3aa-0d7a393f3bcd/linked_in" target="_blank"> Associate of ISC^2</span>
+												<!--Certified Information Systems Security Professional - <span class="boldtext"> Associate CISSP</span> -->
 												Information Systems Security - <span class="boldtext" style="font-weight: bold;"><a href="https://iasec.eller.arizona.edu/programs/cnss-certificate" target="_blank"> NSTISSI 4011 </a></span> </br>
 												Senior Systems Manager - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?zFoKoMXSVGhMPq9yAKVD4w==" target="_blank"> CNSS 4012</a></span> </br>
 												System Administrator - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?/6qEBI1BFJKe66KY8vUn3g==" target="_blank">CNSS 4013</a></span> </br>
 												Risk Analyst, Entry Level - <span class="boldtext" style="font-weight: bold;"><a href="https://www.cnss.gov/CNSS/openDoc.cfm?Mw14oi1OLd6j54dlVIKvsA==" target="_blank"> CNSS 4016</a></span> </br>
 												Enterprise Information Security - <span class="boldtext" style="font-weight: bold;"><a href="https://misonline.eller.arizona.edu/certificates/enterprise-security" target="_blank"> Eller 2016 </a></span> </br>
-												Certified Information Systems Security Professional (CISSP) - <span class="boldtext" style="font-weight: bold;"><a href="https://www.youracclaim.com/badges/d7e14049-26db-4f7a-b3aa-0d7a393f3bcd/linked_in" target="_blank"> Associate of ISC^2</span>
-												<!--Certified Information Systems Security Professional - <span class="boldtext"> Associate CISSP</span> -->
 												</p>
 											</div>
 											<a class="image cert" style="padding-left:25px;"><img src="images/Certificate.png" alt="Certifications" /></a>
