@@ -84,9 +84,16 @@
 												<h4 align="center">Senior Consultant - Cyber Strategy and Advisory</h4> <h5 align="center">September 2019 - Current &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tampa, FL</h5>
 												<hr>
 												<h4 align="center">Consultant - Cyber Risk and Advisory</h4> <h5 align="center">July 2017 - September 2019 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Newport Beach, CA / Tampa, FL</h5>
-												<p>&#8226; Performed client site assessments of IT business functions and processes to identify areas for improvement.<br>
-												&#8226; Conducted cyber security risk assessments for various organizations against industry frameworks. (ISO 27001, NIST 800-53, and CIS CSC Top 20)<br>
-												&#8226; Collaborated with internal and external teams to develop documentation that accurately reflected the findings and status of IT divisions for Board of Directors and Executive Management.</p>
+												<p>&#8226; Performed on-site client assessments of IT and IS business functions to identify control gaps and weaknesses.<br>
+													&#8226; Conducted multiple IT risk assessments across North and South America, Europe, and Asia while managing the project delivery team.<br>
+													&#8226; Validated cybersecurity controls against various industry-accepted standards and frameworks (NIST Cyber Security Framework, NIST SP 800-53, ISO 27001, and CIS CSC 20).<br>
+													&#8226; Validated security controls against the PCI DSS for all 12 PCI requirements including all sub-requirements.<br>
+													&#8226; Created and completed testing of an Insider Threat Audit program.<br>
+													&#8226; Collaborated with internal and external teams to develop documentation that accurately reflects the organization’s security posture and control gaps. Deliverables including weekly status memos, executive summary and technical reports, remediation roadmaps, and Board of Director PowerPoint presentations.<br>
+													&#8226; Developed strategic timelines and Total Cost of Ownership (TCO) guides to provide insight into the IT remediation estimates (i.e., capital and operational costs), annuity costs, and expected risk reduction.<br>
+													&#8226; Designed data visualization models using Power BI to graphically communicate cybersecurity risk and maturity.<br>
+													&#8226; Interviewed and effectively participated in the hiring of employees.<br>
+													&#8226; Mentored and coached peers and junior staff on technical testing and reviewed project deliverables for quality and accuracy.</p>
 											</div>
 										</article>
 										<article>
