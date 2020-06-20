@@ -31,7 +31,7 @@ $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteve
       "content": [
         {
           "type": "text/plain",
-          "value": "Hello, Email!"
+          "value": "$name<br>$email<br>$subject<br>$message"
         }
       ]
     }');
