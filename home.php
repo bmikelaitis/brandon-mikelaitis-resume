@@ -257,7 +257,7 @@
 											<div class="12u"><input type="text" name="subject" id="subject" placeholder="Subject" /></div>
 										</div>
 										<div class="row uniform">
-											<div class="12u"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
+											<div class="12u"><textarea name="message" id="message" onblur="formatPhone(this);" placeholder="Phone Number" rows="1"></textarea></div>
 										</div>
 										
 										<div class="row uniform">
@@ -332,7 +332,7 @@
 				    
 				    var message = document.forms["myForm"]["message"].value;
 				    if (message.length < 10) {
-				        text = text + "<br>Error: Message must be longer than 10 characters";
+				        text = text + "<br>Error: Please insert a valid phone number";
 				        document.getElementById("demo").innerHTML = text;
 				    }
 				    var googleResponse = jQuery('#g-recaptcha-response').val();
@@ -356,6 +356,16 @@
 				        x.style.display = 'none';
 				    }
 				}
+				function formatPhone(obj) {
+				    var numbers = obj.value.replace(/\D/g, ''),
+				        char = {0:'(',3:') ',6:' - '};
+				    obj.value = '';
+				    for (var i = 0; i < numbers.length; i++) {
+				        obj.value += (char[i]||'') + numbers[i];
+				    }
+				}
+				
+				
 			</script>
 			<script src='https://www.google.com/recaptcha/api.js'></script>
 	</body>
