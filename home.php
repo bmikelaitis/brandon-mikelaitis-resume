@@ -255,7 +255,7 @@
 										</div>
 										
 										<div class="row uniform">
-											<div class="12u"><input name="message" id="message" onblur="formatPhone(this);" placeholder="Phone Number" /></div>
+											<div class="12u"><input type="text" name="message" id="message" onblur="formatPhone(this);" placeholder="Phone Number" /></div>
 										</div>
 										
 										<div class="row uniform">
