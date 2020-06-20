@@ -160,7 +160,7 @@
 										<article>
 											<a href="https://msmis.eller.arizona.edu" target="_blank" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
 											<div class="inner">
-												<h4 align="center">Master's of Science in Management Information Systems</h4>
+												<h4 align="center">Master of Science in Management Information Systems</h4>
 												<h5 align="center">GPA: 3.909 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2017</h5>
 												<p align="center"><span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Concentrations</span> </br>
 												&#8226; Cyber Security</br>
@@ -173,7 +173,7 @@
 										</article>
 										<article>
 											<div class="inner">
-											<h4 align="center">Bachelor's of Science in Business Administration</h4> <h5 align="center"> Management Information Systems </br>& Operations Management</h5>
+											<h4 align="center">Bachelor of Science in Business Administration</h4> <h5 align="center"> Management Information Systems </br>& Operations Management</h5>
 												<h5 align="center">GPA: 3.89 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2016</h5>
 												<p align="center"><span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Honors</span> </br>
 												&#8226; Magna Cum Laude</br>
@@ -229,7 +229,7 @@
 										<li class="fa-html5">HTML5, CSS, JS, PHP, & Ruby on Rails</li>
 										<li class="fa-cloud">SSH & FTP Clients</li>
 										<li class="fa-connectdevelop">Networking Models & Topologies</li>
-										<li class="fa-rocket">Application Development Principles</li>
+										<li class="fas fa-virus">">Application Development Principles</li>
 									</ul>
 								</div>
 							</section>
