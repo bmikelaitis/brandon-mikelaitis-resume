@@ -12,7 +12,7 @@ $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteve
     $name = $_POST['name'];
     $email = $_POST['email']; 
     $subject = $_POST['subject']; 
-    $message = $_POST['message'];
+    $message = pg_escape_string($_POST['message']);
     
     $my_env_var = getenv('SENDGRID_KEY');
     curl_setopt_array($curl, array(
