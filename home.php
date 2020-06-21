@@ -14,6 +14,8 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<link rel="icon" type="image/png" href="images/favicon/favicon.ico" />
 		<link rel="apple-touch-icon" sizes="180x180" type="image/png" href="images/favicon/apple-touch-icon.png">
+		<link rel="shortcut icon" sizes="192x192" type="image/png" href="images/favicon/android-chrome-192x192.png">
+		<link rel='mask-icon' href='images/favicon/android-chrome-192x192.png' color=#F55>
 	</head>
 	<body>
 
