@@ -22,10 +22,10 @@ $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteve
             }
           ],
           "cc": [{
-			        "email": '.$email.'
+			        "email": "'.$email.'"
 		        }
 		      ],
-          "subject": "Contact from website"
+          "subject": "Contact Brandon Mikelaitis"
         }
       ],
       "from": {
