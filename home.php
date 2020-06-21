@@ -59,7 +59,7 @@
 									
 								<div class="container">
 									<?php if( $_GET['status'] == 'success'):
-											echo '<div id="myDIV"> <p style="color:white; background-color:#19AB3F; border-radius:25px; text-align:center; margin-top:20px; padding-top:5px; padding-bottom:5px;" id="myMsg" > Message Successfully Sent! <i class="fa fa-times" style="float:right; color:#white; font-size: 1.40em; margin-right: 15px; padding-top:2px;" onclick="myFunction()" aria-hidden="true"></i> </p></div>';
+											echo '<div id="myDIV"> <p style="color:white; background-color:#19AB3F; border-radius:25px; text-align:center; margin-top:20px; padding-top:5px; padding-bottom:5px;" id="myMsg" > Message Successfully Sent! You should receive a copy of the email shorty. <i class="fa fa-times" style="float:right; color:#white; font-size: 1.40em; margin-right: 15px; padding-top:2px;" onclick="myFunction()" aria-hidden="true"></i> </p></div>';
 										  endif;
 									?>
 									<header class="major">
