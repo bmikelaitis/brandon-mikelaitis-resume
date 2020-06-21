@@ -12,6 +12,7 @@
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<link rel="icon" type="image/png" href="images/favicon.ico" />
 	</head>
 	<body>
 
@@ -79,6 +80,8 @@
 									Currently seeking to expand upon experience in the cybersecurity industry.</p>
 									<div class="features">
 										<article>
+											<h4 align="center">Summary</h4>
+											<p>Responsible for conducting IT operational and cybersecurity risk assessments and audits, data security audits, and network security architecture reviews in a variety of industries including technology, aerospace, financial, manufacturing, hospitality, retail, and public sectors.</p>
 											<a href="https://focal-point.com" target="_blank" class="image"><img src="images/focal-point-large-text.png" alt="Focal Point" /></a>
 											<div class="inner">
 												<h4 align="center">Senior Consultant - Cyber Strategy and Advisory</h4> <h5 align="center">September 2019 - Current &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tampa, FL</h5>
@@ -241,7 +244,7 @@
 							<section id="five">
 								<div class="container">
 									<h3>Contact Me</h3>
-									<p>For a direct line of contact, please fill out your information below with any questions you may have.  I am also available via direct email at BrandonMikelaitis@gmail.com.  My typical response time is 1 business day.</p>
+									<p>For a direct line of contact, please fill out your information below and I will get in contact with you.  I am also available via direct email at BrandonMikelaitis@gmail.com.  My typical response time is 1 business day.</p>
 									
 									<p style="color:white; background-color:#db6a60; border-radius:25px; text-align:center;" id="demo"></p>
 									<?php if( $_GET['status'] == 'failed'):
