@@ -34,7 +34,7 @@ $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteve
       "content": [
         {
           "type": "text/plain",
-          "value": "Message Recieved from '.$name.'   Contact Information: Email: '.$email.'   |   Subject:  '.$subject.'   |   Phone:  '.$message.'" 
+          "value": "Message Recieved from '.$name.' |  Contact Information: Email: '.$email.'   |   Subject:  '.$subject.'   |   Phone:  '.$message.'" 
         }
       ]
     }');
