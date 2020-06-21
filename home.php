@@ -16,6 +16,7 @@
 		<link rel="apple-touch-icon" sizes="180x180" type="image/png" href="images/favicon/apple-touch-icon.png">
 		<link rel="shortcut icon" sizes="192x192" type="image/png" href="images/favicon/android-chrome-192x192.png">
 		<link rel='mask-icon' href='images/favicon/android-chrome-192x192.png' color=#F55>
+		<link rel="apple-touch-icon-precomposed" sizes="192x192" href="images/favicon/android-chrome-192x192.png" />
 	</head>
 	<body>
 
