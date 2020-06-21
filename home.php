@@ -14,7 +14,6 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<link rel="icon" type="image/png" href="images/favicon/favicon.ico" />
 		<link rel="apple-touch-icon" sizes="180x180" type="image/png" href="images/favicon/apple-touch-icon.png">
-		<link rel="shortcut icon" sizes="192x192" type="image/png" href="images/favicon/android-chrome-192x192.png">
 	</head>
 	<body>
 
@@ -83,10 +82,6 @@
 									<div class="features">
 										<article>
 											<a href="https://focal-point.com" target="_blank" class="image"><img src="images/focal-point-large-text.png" alt="Focal Point" /></a>
-											<div class="image"> 
-												<h4 align="center">Summary</h4>
-												<p align="center">Responsible for conducting IT operational and cybersecurity risk assessments and audits, data security audits, and network security architecture reviews in a variety of industries including technology, aerospace, financial, manufacturing, hospitality, retail, and public sectors.</p>
-											</div>
 											<div class="inner">
 												<h4 align="center">Senior Consultant - Cyber Strategy and Advisory</h4> <h5 align="center">September 2019 - Current &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tampa, FL</h5>
 												<p>&#8226; Performed on-site client assessments of IT and IS business functions to identify control gaps and weaknesses.<br>
