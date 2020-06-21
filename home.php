@@ -197,7 +197,7 @@
 											<div class="inner">
 												<h4 align="center">Academic Projects</h4>
 												<p align="center">
-												<span style="font-weight: bold;"><a href="https://dashboard.heroku.com/apps/financial-complaints" target="_blank"> Financial Complaints - Machine Learning</a></span> <br> Designed ML models to predict consumer complaints against financial institutions.</p><hr /> 
+												<span style="font-weight: bold;"><a href="https://financial-complaints.herokuapp.com/index.html" target="_blank"> Financial Complaints - Machine Learning</a></span> <br> Designed ML models to predict consumer complaints against financial institutions.</p><hr /> 
 												<p align="center">
 												<span style="font-weight: bold;"><a href="https://tucsoncleanandbeautiful.org" target="_blank"> Tucson Clean and Beautiful (TCB) - Tracking Platform</a></span> <br> Developed a prototype application to enable end users to easily report project status updates.</p>
 											</div>
