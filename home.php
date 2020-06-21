@@ -12,7 +12,9 @@
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		<link rel="icon" type="image/png" href="images/favicon.ico" />
+		<link rel="icon" type="image/png" href="images/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" type="image/png" href="images/favicon/apple-touch-icon.png">
+		<link rel="shortcut icon" sizes="192x192" type="image/png" href="images/favicon/android-chrome-192x192.png">
 	</head>
 	<body>
 
@@ -80,8 +82,8 @@
 									Currently seeking to expand upon experience in the cybersecurity industry.</p>
 									<div class="features">
 										<article>
-											<h4 align="center">Summary</h4>
-											<p>Responsible for conducting IT operational and cybersecurity risk assessments and audits, data security audits, and network security architecture reviews in a variety of industries including technology, aerospace, financial, manufacturing, hospitality, retail, and public sectors.</p>
+											<h4 class="image" align="center">Summary</h4>
+											<p class="image">Responsible for conducting IT operational and cybersecurity risk assessments and audits, data security audits, and network security architecture reviews in a variety of industries including technology, aerospace, financial, manufacturing, hospitality, retail, and public sectors.</p>
 											<a href="https://focal-point.com" target="_blank" class="image"><img src="images/focal-point-large-text.png" alt="Focal Point" /></a>
 											<div class="inner">
 												<h4 align="center">Senior Consultant - Cyber Strategy and Advisory</h4> <h5 align="center">September 2019 - Current &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tampa, FL</h5>
