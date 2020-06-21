@@ -82,9 +82,11 @@
 									Currently seeking to expand upon experience in the cybersecurity industry.</p>
 									<div class="features">
 										<article>
-											<h4 class="image" align="center">Summary</h4>
-											<p class="image">Responsible for conducting IT operational and cybersecurity risk assessments and audits, data security audits, and network security architecture reviews in a variety of industries including technology, aerospace, financial, manufacturing, hospitality, retail, and public sectors.</p>
 											<a href="https://focal-point.com" target="_blank" class="image"><img src="images/focal-point-large-text.png" alt="Focal Point" /></a>
+											<div class="image"> 
+												<h4 align="center">Summary</h4>
+												<p align="center">Responsible for conducting IT operational and cybersecurity risk assessments and audits, data security audits, and network security architecture reviews in a variety of industries including technology, aerospace, financial, manufacturing, hospitality, retail, and public sectors.</p>
+											</div>
 											<div class="inner">
 												<h4 align="center">Senior Consultant - Cyber Strategy and Advisory</h4> <h5 align="center">September 2019 - Current &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tampa, FL</h5>
 												<p>&#8226; Performed on-site client assessments of IT and IS business functions to identify control gaps and weaknesses.<br>
