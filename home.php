@@ -208,11 +208,11 @@
 												<p align="center">
 												Certified Information Systems Security Professional (CISSP) - <span class="boldtext" style="font-weight: bold;"><a href="https://www.youracclaim.com/badges/d7e14049-26db-4f7a-b3aa-0d7a393f3bcd/linked_in" target="_blank"> Associate of ISC^2</span>
 												<!--Certified Information Systems Security Professional - <span class="boldtext"> Associate CISSP</span> -->
-												Information Systems Security - <span class="boldtext" style="font-weight: bold;"><a href="https://iasec.eller.arizona.edu/programs/cnss-certificate" target="_blank"> NSTISSI 4011 </a></span> </br>
-												Senior Systems Manager - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?zFoKoMXSVGhMPq9yAKVD4w==" target="_blank"> CNSS 4012</a></span> </br>
-												System Administrator - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?/6qEBI1BFJKe66KY8vUn3g==" target="_blank">CNSS 4013</a></span> </br>
-												Risk Analyst, Entry Level - <span class="boldtext" style="font-weight: bold;"><a href="https://www.cnss.gov/CNSS/openDoc.cfm?Mw14oi1OLd6j54dlVIKvsA==" target="_blank"> CNSS 4016</a></span> </br>
-												Enterprise Information Security - <span class="boldtext" style="font-weight: bold;"><a href="https://misonline.eller.arizona.edu/certificates/enterprise-security" target="_blank"> Eller 2016 </a></span> </br>
+												<br>Information Systems Security - <span class="boldtext" style="font-weight: bold;"><a href="https://iasec.eller.arizona.edu/programs/cnss-certificate" target="_blank"> NSTISSI 4011 </a></span> </br>
+												<br>Senior Systems Manager - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?zFoKoMXSVGhMPq9yAKVD4w==" target="_blank"> CNSS 4012</a></span> </br>
+												<br>System Administrator - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?/6qEBI1BFJKe66KY8vUn3g==" target="_blank">CNSS 4013</a></span> </br>
+												<br>Risk Analyst, Entry Level - <span class="boldtext" style="font-weight: bold;"><a href="https://www.cnss.gov/CNSS/openDoc.cfm?Mw14oi1OLd6j54dlVIKvsA==" target="_blank"> CNSS 4016</a></span> </br>
+												<br>Enterprise Information Security - <span class="boldtext" style="font-weight: bold;"><a href="https://misonline.eller.arizona.edu/certificates/enterprise-security" target="_blank"> Eller 2016 </a></span> </br>
 												</p>
 											</div>
 											<a class="image cert" style="padding-left:25px;"><img src="images/Certificate.png" alt="Certifications" /></a>
