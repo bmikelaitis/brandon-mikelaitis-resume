@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "3e5389bfd327ea8cbf8af89f56f78482",
+    "content-hash": "0026c3292aff694a5ef2d6aa7547c254",
     "packages": [
         {
             "name": "sendgrid/php-http-client",
@@ -111,7 +111,8 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
-    "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "platform": {
+        "php": "^7.2.24|^8.1.9"
+    },
+    "platform-dev": []
 }
